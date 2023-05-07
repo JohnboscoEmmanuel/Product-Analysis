@@ -16,6 +16,16 @@ This product analysis involved product dataset cleaning with Excel and visualiza
 3. Any other significant factors that might influence the company's performance.
 
 ##Skills/Concepts Demonstrated:
+
+Data cleaning process
+
+  - Spell checking
+  - Removing duplicate rows
+  - Finding and replacing text
+  - Changing the case of the text
+  - fixing dates and time
+  - transforming and rearranging columns and rows.
+
 The following Tableau Features were incorporated:
 
 - Tooltips
@@ -26,6 +36,11 @@ The following Tableau Features were incorporated:
 - Show Me
 - Label
 - Filters
+
+## Data cleaning:
+![](https://github.com/Londonfc22/Product-Analysis/blob/main/product%20Excel%20image.png)
+Cleaning of the data was important in data analysis. It ensure that data are consistent, accurate result, reliable and enable us to make a inform decission.
+
 
 ## Visualization:
 
@@ -43,18 +58,18 @@ You can interact with the report [here](https://public.tableau.com/app/profile/j
 ### Profit by product:
 ![](https://github.com/Londonfc22/Product-Analysis/blob/main/profit%20by%20product.png)
 
-This report shows profit made by the company from different product.
+"The presented visualization chart depicts the profitability information of each product of the company, highlighting that Paseo is the most lucrative product, generating an impressive $4,797,438 in profit. In contrast, Carretera is the least profitable product, bringing in a modest profit of only $1,826,805.
 
 ### Profit by Sales:
 ![](https://github.com/Londonfc22/Product-Analysis/blob/main/profit%20by%20sales.png)
 
-This report shows how many sales the company made from each product and profit generated. From the report , it is understandable that the higher the sales the higher the profit generated.
+This report shows how many sales the company made from each product and profit generated. "As shown in the visualisation chart, an undeniable correlation exists between a product's sales and the subsequent profits realised by the company, where the higher the sales, the more significant the profit margin, thus highlighting the paramount importance of sales in generating profitability."
+
 
 ### Total Profit:
 ![](https://github.com/Londonfc22/Product-Analysis/blob/main/total%20profit.png%20.png)
 
-This report shows the total profit the company generated from all the products sold.
-
+This report shows the total profit the company generated from all the products sold. 
 ### Total Sales:
 ![](https://github.com/Londonfc22/Product-Analysis/blob/main/Screenshot%20total%20sales.png)
 
@@ -71,7 +86,7 @@ This report shows interactive dashboard of the product analysis.
 This report summarises the data and findings in a way the audience will easily understand it.
 
 ## Data Analysis Insight:
-The company made a total profit of approximately seventeen million dollars from 119 million items sold. The company made profit from each of the six products. Additionally, from the analysis conducted the company made the highest and lowest profit from Paseo ($4.8 million) and Carretera ($1.8 million) respectively.
+The company made a total profit of approximately seventeen million dollars ($17m) from 119 million items sold. The company made profit from each of the six products. Additionally, from the analysis conducted the company made the highest and lowest profit from Paseo ($4.8 million) and Carretera ($1.8 million) respectively.The insights gained from this analysis can be leveraged to identify areas for improvement, fine-tune existing strategies, and drive sustainable business growth through data-based decision-making."
 
 ## Factors that can influence the company performance:
   The following are the factors that can influence the company’s performance.
