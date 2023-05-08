@@ -15,7 +15,7 @@ This product analysis involved product dataset cleaning with Excel and visualiza
 2. Profit by Sales
 3. Any other significant factors that might influence the company's performance.
 
-##Skills/Concepts Demonstrated:
+## Skills/Concepts Demonstrated:
 
 Data cleaning process
 
@@ -39,7 +39,7 @@ The following Tableau Features were incorporated:
 
 ## Data cleaning:
 ![](https://github.com/Londonfc22/Product-Analysis/blob/main/product%20Excel%20image.png)
-Cleaning of the data was important in data analysis. It ensure that data are consistent, accurate result, reliable and enable us to make a inform decission.
+Cleaning of the data was important in data analysis. It ensure that data are consistent, accurate result, reliable and enable us to make an inform decission.
 
 
 ## Visualization:
