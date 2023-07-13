@@ -51,7 +51,7 @@ Cleaning of the data was important in data analysis. It ensure that data are con
 5. Dashboard
 6. Story
 
-YOU CAN INTERACT WITH THE REPORT BY [clicking this link](https://public.tableau.com/app/profile/johnbosco.emmanuel/viz/project3_16773429696700/Story1?publish=yes)
+# YOU CAN INTERACT WITH THE REPORT BY [clicking this link](https://public.tableau.com/app/profile/johnbosco.emmanuel/viz/project3_16773429696700/Story1?publish=yes)
 
 ## Analysis:
 
